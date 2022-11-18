@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Departamentos>
+    <departamento id="0">
+        <numeroDepartamento>1</numeroDepartamento>
+        <nombre>Hotel 1</nombre>
+        <localidad>Mostoles</localidad>
+    </departamento>
+    <departamento id="1">
+        <numeroDepartamento>2</numeroDepartamento>
+        <nombre>Hotel 2</nombre>
+        <localidad>Madrid</localidad>
+    </departamento>
+    <departamento id="2">
+        <numeroDepartamento>3</numeroDepartamento>
+        <nombre>Hotel 3</nombre>
+        <localidad>Aranjuez</localidad>
+    </departamento>
+</Departamentos>
